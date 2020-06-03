@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "electron": "^9.0.2"
+    "electron": "^9.0.2",
+    "fluent-ffmpeg": "^2.1.2"
   },
   "devDependencies": {},
   "scripts": {
